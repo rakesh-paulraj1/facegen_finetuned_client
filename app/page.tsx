@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion";
-import { HeroHighlight,Highlight } from '@/components/hero-highlight'
+import { HeroHighlight, } from '@/components/hero-highlight'
 const Hero
  = () => {
   return (
@@ -15,7 +15,7 @@ const Hero
     </HeroHighlight>
   
   
-
+    
     
   )
 }
